@@ -5,7 +5,7 @@
 
 
 
-I originally created this challenge for the ASC Wargames Qualifications CTF but it couldn't be uploaded due to financial issues, so i thought i would upload here at least :)
+I originally created this challenge for the ASC Wargames 2025 Qualifications CTF but it couldn't be uploaded due to financial issues, so i thought i would upload here at least :)
 
 --- 
 
