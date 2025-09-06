@@ -1,6 +1,7 @@
 # Arcade Anomaly - An AWS S3 Miscofiguration Lab
 
-<img width="1509" height="787" alt="image" src="https://github.com/user-attachments/assets/011a2a40-f37c-4432-9a58-6b0a64495d8c" />
+<img width="1509" height="739" alt="image" src="https://github.com/user-attachments/assets/b18f5b58-4e3f-470d-8004-d4340de29287" />
+
 
 
 
