@@ -1,0 +1,344 @@
+[2025-07-17 02:30:00] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:30:59] [DEBUG] Archiving old logs...
+[2025-07-17 02:31:23] [ERROR] Finalizing backup manifest.
+[2025-07-17 02:32:15] [TRACE] Uploading chunk...
+[2025-07-17 02:32:43] [INFO] Listing files in source directory...
+[2025-07-17 02:33:40] [ERROR] Sync job completed successfully.
+[2025-07-17 02:33:41] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:34:39] [DEBUG] Retrying failed request...
+[2025-07-17 02:35:11] [TRACE] Uploading chunk...
+[2025-07-17 02:35:55] [TRACE] Memory usage report generated.
+[2025-07-17 02:36:39] [DEBUG] Exit code: 0
+[2025-07-17 02:36:48] [INFO] Finalizing backup manifest.
+[2025-07-17 02:37:21] [INFO] Retrying failed request...
+[2025-07-17 02:37:50] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:38:18] [WARN] Uploading chunk...
+[2025-07-17 02:39:09] [WARN] Retrying failed request...
+[2025-07-17 02:39:41] [INFO] Archiving old logs...
+[2025-07-17 02:40:29] [DEBUG] Received new credentials.
+[2025-07-17 02:40:32] [TRACE] Sync job completed successfully.
+[2025-07-17 02:40:42] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:40:43] [WARN] Connection established to remote endpoint.
+[2025-07-17 02:41:08] [WARN] Sync job completed successfully.
+[2025-07-17 02:41:17] [ERROR] Delta scan complete.
+[2025-07-17 02:42:01] [ERROR] Retrying failed request...
+[2025-07-17 02:42:32] [WARN] Skipping unchanged file.
+[2025-07-17 02:42:49] [TRACE] Archiving old logs...
+[2025-07-17 02:43:06] [TRACE] Object key hashed.
+[2025-07-17 02:43:24] [WARN] Exit code: 0
+[2025-07-17 02:43:40] [ERROR] Delta scan complete.
+[2025-07-17 02:44:35] [INFO] Exit code: 0
+[2025-07-17 02:44:40] [TRACE] Memory usage report generated.
+[2025-07-17 02:44:58] [DEBUG] Archiving old logs...
+[2025-07-17 02:45:03] [WARN] Listing files in source directory...
+[2025-07-17 02:45:27] [ERROR] Memory usage report generated.
+[2025-07-17 02:45:32] [TRACE] Uploading chunk...
+[2025-07-17 02:46:08] [ERROR] Uploading chunk...
+[2025-07-17 02:47:07] [INFO] Memory usage report generated.
+[2025-07-17 02:47:36] [TRACE] Retrying failed request...
+[2025-07-17 02:47:37] [ERROR] Received new credentials.
+[2025-07-17 02:48:01] [DEBUG] Archiving old logs...
+[2025-07-17 02:48:04] [WARN] Listing files in source directory...
+[2025-07-17 02:48:07] [TRACE] Uploading chunk...
+[2025-07-17 02:48:30] [ERROR] Archiving old logs...
+[2025-07-17 02:48:41] [INFO] Archiving old logs...
+[2025-07-17 02:48:58] [ERROR] Connection established to remote endpoint.
+[2025-07-17 02:49:45] [ERROR] Finalizing backup manifest.
+[2025-07-17 02:50:40] [DEBUG] Listing files in source directory...
+[2025-07-17 02:50:51] [DEBUG] Memory usage report generated.
+[2025-07-17 02:51:08] [INFO] Sync job completed successfully.
+[2025-07-17 02:51:39] [WARN] Finalizing backup manifest.
+[2025-07-17 02:52:21] [ERROR] Object key hashed.
+[2025-07-17 02:53:00] [ERROR] Delta scan complete.
+[2025-07-17 02:53:41] [DEBUG] Finalizing backup manifest.
+[2025-07-17 02:53:48] [WARN] Sync job completed successfully.
+[2025-07-17 02:53:57] [DEBUG] Uploading chunk...
+[2025-07-17 02:54:14] [WARN] Exit code: 0
+[2025-07-17 02:54:23] [INFO] Delta scan complete.
+[2025-07-17 02:54:52] [ERROR] Object key hashed.
+[2025-07-17 02:55:05] [INFO] Sync job completed successfully.
+[2025-07-17 02:55:27] [ERROR] Checksum mismatch detected.
+[2025-07-17 02:55:48] [WARN] Checksum mismatch detected.
+[2025-07-17 02:56:01] [TRACE] Object key hashed.
+[2025-07-17 02:56:09] [WARN] Session token refreshed.
+[2025-07-17 02:57:05] [TRACE] Session token refreshed.
+[2025-07-17 02:57:50] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:57:56] [WARN] Skipping unchanged file.
+[2025-07-17 02:58:43] [INFO] Memory usage report generated.
+[2025-07-17 02:58:57] [DEBUG] Finalizing backup manifest.
+[2025-07-17 02:59:22] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:59:37] [ERROR] Archiving old logs...
+[2025-07-17 03:00:20] [DEBUG] Uploading chunk...
+[2025-07-17 03:00:41] [DEBUG] Retrying failed request...
+[2025-07-17 03:01:07] [ERROR] Checksum mismatch detected.
+[2025-07-17 03:01:26] [INFO] Object key hashed.
+[2025-07-17 03:01:34] [WARN] Delta scan complete.
+[2025-07-17 03:02:23] [WARN] Verifying upload integrity...
+[2025-07-17 03:02:43] [WARN] Listing files in source directory...
+[2025-07-17 03:03:02] [INFO] Verifying upload integrity...
+[2025-07-17 03:03:32] [ERROR] Memory usage report generated.
+[2025-07-17 03:03:47] [INFO] Skipping unchanged file.
+[2025-07-17 03:04:22] [WARN] Session token refreshed.
+[2025-07-17 03:05:06] [WARN] Checksum mismatch detected.
+[2025-07-17 03:05:09] [TRACE] Uploading chunk...
+[2025-07-17 03:06:06] [DEBUG] Archiving old logs...
+[2025-07-17 03:07:05] [ERROR] Archiving old logs...
+[2025-07-17 03:07:06] [ERROR] Connection established to remote endpoint.
+[2025-07-17 03:07:38] [DEBUG] Object key hashed.
+[2025-07-17 03:07:54] [INFO] Sync job completed successfully.
+[2025-07-17 03:08:13] [TRACE] Delta scan complete.
+[2025-07-17 03:08:25] [DEBUG] Connection established to remote endpoint.
+[2025-07-17 03:09:11] [DEBUG] Verifying upload integrity...
+[2025-07-17 03:09:24] [TRACE] Retrying failed request...
+[2025-07-17 03:10:22] [ERROR] Verifying upload integrity...
+[2025-07-17 03:10:25] [DEBUG] Sync job completed successfully.
+[2025-07-17 03:11:22] [WARN] Verifying upload integrity...
+[2025-07-17 03:12:21] [ERROR] Retrying failed request...
+[2025-07-17 03:12:25] [DEBUG] Archiving old logs...
+[2025-07-17 03:13:22] [DEBUG] Checksum mismatch detected.
+[2025-07-17 03:13:27] [ERROR] Memory usage report generated.
+[2025-07-17 03:13:54] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:33:50] [TRACE] Connection established to remote endpoint.
+[2025-07-17 02:35:01] [WARN] Finalizing backup manifest.
+[2025-07-17 02:32:06] [WARN] Skipping unchanged file.
+[2025-07-17 02:36:18] [DEBUG] Listing files in source directory...
+[2025-07-17 02:33:37] [INFO] Archiving old logs...
+[2025-07-17 02:31:56] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:36:44] [WARN] Skipping unchanged file.
+[2025-07-17 02:34:12] [INFO] Memory usage report generated.
+[2025-07-17 02:35:56] [INFO] Checksum mismatch detected.
+[2025-07-17 02:35:23] [ERROR] Exit code: 0
+[2025-07-17 02:34:28] [WARN] Checksum mismatch detected.
+[2025-07-17 02:33:36] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:33:20] [INFO] Memory usage report generated.
+[2025-07-17 02:35:13] [DEBUG] Received new credentials.
+[2025-07-17 02:31:47] [WARN] Verifying upload integrity...
+[2025-07-17 02:34:44] [INFO] Checksum mismatch detected.
+[2025-07-17 02:33:49] [WARN] Checksum mismatch detected.
+[2025-07-17 02:35:14] [DEBUG] Retrying failed request...
+[2025-07-17 02:32:11] [TRACE] Exit code: 0
+[2025-07-17 02:35:17] [INFO] Exit code: 0
+[2025-07-17 02:35:54] [INFO] Sync job completed successfully.
+[2025-07-17 02:32:16] [INFO] Finalizing backup manifest.
+[2025-07-17 02:33:42] [DEBUG] Exit code: 0
+[2025-07-17 02:35:22] [INFO] Received new credentials.
+[2025-07-17 02:34:03] [INFO] Object key hashed.
+[2025-07-17 02:33:23] [INFO] Retrying failed request...
+[2025-07-17 02:33:50] [TRACE] Verifying upload integrity...
+[2025-07-17 02:33:01] [TRACE] Checksum mismatch detected.
+[2025-07-17 02:36:41] [ERROR] Object key hashed.
+[2025-07-17 02:38:29] [WARN] Object key hashed.
+[2025-07-17 02:33:18] [INFO] Sync job completed successfully.
+[2025-07-17 02:36:40] [INFO] Listing files in source directory...
+[2025-07-17 02:38:34] [DEBUG] Uploading chunk...
+[2025-07-17 02:36:14] [WARN] Skipping unchanged file.
+[2025-07-17 02:37:56] [DEBUG] Exit code: 0
+[2025-07-17 02:35:10] [INFO] Listing files in source directory...
+[2025-07-17 02:33:35] [WARN] Skipping unchanged file.
+[2025-07-17 02:37:41] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:35:57] [DEBUG] Uploading chunk...
+[2025-07-17 02:32:53] [DEBUG] Object key hashed.
+[2025-07-17 02:32:26] [INFO] Delta scan complete.
+[2025-07-17 02:36:15] [WARN] Finalizing backup manifest.
+[2025-07-17 02:37:31] [INFO] Memory usage report generated.
+[2025-07-17 02:34:01] [DEBUG] Delta scan complete.
+[2025-07-17 02:34:06] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:38:54] [INFO] Retrying failed request...
+[2025-07-17 02:33:50] [INFO] Finalizing backup manifest.
+[2025-07-17 02:33:10] [INFO] Sync job completed successfully.
+[2025-07-17 02:34:57] [DEBUG] Exit code: 0
+[2025-07-17 02:34:05] [INFO] Object key hashed.
+[2025-07-17 02:37:14] [INFO] Finalizing backup manifest.
+[2025-07-17 02:38:57] [WARN] Retrying failed request...
+[2025-07-17 02:35:10] [DEBUG] Uploading chunk...
+[2025-07-17 02:38:55] [WARN] Connection established to remote endpoint.
+[2025-07-17 02:32:23] [WARN] Object key hashed.
+[2025-07-17 02:35:21] [INFO] Object key hashed.
+[2025-07-17 02:37:24] [ERROR] Exit code: 0
+[2025-07-17 02:35:23] [DEBUG] Delta scan complete.
+[2025-07-17 02:37:44] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:32:41] [ERROR] Sync job completed successfully.
+[2025-07-17 02:39:54] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:36:34] [WARN] Verifying upload integrity...
+[2025-07-17 02:35:45] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:33:27] [DEBUG] Exit code: 0
+[2025-07-17 02:39:50] [INFO] Delta scan complete.
+[2025-07-17 02:34:43] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:34:42] [DEBUG] Object key hashed.
+[2025-07-17 02:37:27] [INFO] Listing files in source directory...
+[2025-07-17 02:35:46] [INFO] Received new credentials.
+[2025-07-17 02:33:00] [WARN] Sync job completed successfully.
+[2025-07-17 02:37:30] [DEBUG] Delta scan complete.
+[2025-07-17 02:32:31] [DEBUG] Exit code: 0
+[2025-07-17 02:37:17] [WARN] Retrying failed request...
+[2025-07-17 02:34:19] [INFO] Object key hashed.
+[2025-07-17 02:35:46] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:32:21] [DEBUG] Finalizing backup manifest.
+[2025-07-17 02:38:07] [INFO] Sync job completed successfully.
+[2025-07-17 02:36:49] [INFO] Skipping unchanged file.
+[2025-07-17 02:36:04] [INFO] Uploading chunk...
+[2025-07-17 02:36:24] [TRACE] Checksum mismatch detected.
+[2025-07-17 02:35:43] [INFO] Exit code: 0
+[2025-07-17 02:34:15] [DEBUG] Session token refreshed.
+[2025-07-17 02:33:49] [DEBUG] Uploading chunk...
+[2025-07-17 02:39:41] [INFO] Delta scan complete.
+[2025-07-17 02:35:09] [WARN] Checksum mismatch detected.
+[2025-07-17 02:39:23] [INFO] Object key hashed.
+[2025-07-17 02:39:34] [DEBUG] Exit code: 0
+[2025-07-17 02:39:51] [INFO] Exit code: 0
+[2025-07-17 02:35:16] [DEBUG] Session token refreshed.
+[2025-07-17 02:36:16] [INFO] Retrying failed request...
+[2025-07-17 02:40:59] [INFO] Session token refreshed.
+[2025-07-17 02:34:20] [WARN] Listing files in source directory...
+[2025-07-17 02:35:06] [INFO] Session token refreshed.
+[2025-07-17 02:35:44] [DEBUG] Uploading chunk...
+[2025-07-17 02:36:45] [INFO] Received new credentials.
+[2025-07-17 02:40:11] [WARN] Memory usage report generated.
+[2025-07-17 02:33:11] [ERROR] Sync job completed successfully.
+[2025-07-17 02:38:54] [INFO] Uploading chunk...
+[2025-07-17 02:32:59] [WARN] Checksum mismatch detected.
+[2025-07-17 02:35:26] [DEBUG] Connection established to remote endpoint.
+[2025-07-17 02:40:12] [WARN] Session token refreshed.
+[2025-07-17 02:41:11] [DEBUG] Exit code: 0
+[2025-07-17 02:40:28] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:34:32] [DEBUG] Object key hashed.
+[2025-07-17 02:41:43] [TRACE] Delta scan complete.
+[2025-07-17 02:41:35] [WARN] Skipping unchanged file.
+[2025-07-17 02:36:34] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:32:48] [WARN] Object key hashed.
+[2025-07-17 02:35:48] [INFO] Finalizing backup manifest.
+[2025-07-17 02:37:28] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:34:01] [INFO] Session token refreshed.
+[2025-07-17 02:38:22] [INFO] Uploading chunk...
+[2025-07-17 02:34:39] [DEBUG] Memory usage report generated.
+[2025-07-17 02:34:54] [INFO] Memory usage report generated.
+[2025-07-17 02:41:12] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:33:09] [ERROR] Object key hashed.
+[2025-07-17 02:38:42] [INFO] Checksum mismatch detected.
+[2025-07-17 02:36:57] [INFO] Session token refreshed.
+[2025-07-17 02:40:53] [INFO] Session token refreshed.
+[2025-07-17 02:38:08] [DEBUG] Object key hashed.
+[2025-07-17 02:32:42] [WARN] Session token refreshed.
+[2025-07-17 02:35:13] [DEBUG] Listing files in source directory...
+[2025-07-17 02:33:50] [TRACE] Connection established to remote endpoint.
+[2025-07-17 02:35:01] [WARN] Finalizing backup manifest.
+[2025-07-17 02:32:06] [WARN] Skipping unchanged file.
+[2025-07-17 02:36:18] [DEBUG] Listing files in source directory...
+[2025-07-17 02:33:37] [INFO] Archiving old logs...
+[2025-07-17 02:31:56] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:36:44] [WARN] Skipping unchanged file.
+[2025-07-17 02:34:12] [INFO] Memory usage report generated.
+[2025-07-17 02:35:56] [INFO] Checksum mismatch detected.
+[2025-07-17 02:35:23] [ERROR] Exit code: 0
+[2025-07-17 02:34:28] [WARN] Checksum mismatch detected.
+[2025-07-17 02:33:36] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:33:20] [INFO] Memory usage report generated.
+[2025-07-17 02:35:13] [DEBUG] Received new credentials.
+[2025-07-17 02:31:47] [WARN] Verifying upload integrity...
+[2025-07-17 02:34:44] [INFO] Checksum mismatch detected.
+[2025-07-17 02:33:49] [WARN] Checksum mismatch detected.
+[2025-07-17 02:35:14] [DEBUG] Retrying failed request...
+[2025-07-17 02:32:11] [TRACE] Exit code: 0
+[2025-07-17 02:35:17] [INFO] Exit code: 0
+[2025-07-17 02:35:54] [INFO] Sync job completed successfully.
+[2025-07-17 02:32:16] [INFO] Finalizing backup manifest.
+[2025-07-17 02:33:42] [DEBUG] Exit code: 0
+[2025-07-17 02:35:22] [INFO] Received new credentials.
+[2025-07-17 02:34:03] [INFO] Object key hashed.
+[2025-07-17 02:33:23] [INFO] Retrying failed request...
+[2025-07-17 02:33:50] [TRACE] Verifying upload integrity...
+[2025-07-17 02:33:01] [TRACE] Checksum mismatch detected.
+[2025-07-17 02:36:41] [ERROR] Object key hashed.
+[2025-07-17 02:38:29] [WARN] Object key hashed.
+[2025-07-17 02:33:18] [INFO] Sync job completed successfully.
+[2025-07-17 02:36:40] [INFO] Listing files in source directory...
+[2025-07-17 02:38:34] [DEBUG] Uploading chunk...
+[2025-07-17 02:36:14] [WARN] Skipping unchanged file.
+[2025-07-17 02:37:56] [DEBUG] Exit code: 0
+[2025-07-17 02:35:10] [INFO] Listing files in source directory...
+[2025-07-17 02:33:35] [WARN] Skipping unchanged file.
+[2025-07-17 02:37:41] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:35:57] [DEBUG] Uploading chunk...
+[2025-07-17 02:32:53] [DEBUG] Object key hashed.
+[2025-07-17 02:32:26] [INFO] Delta scan complete.
+[2025-07-17 02:36:15] [WARN] Finalizing backup manifest.
+[2025-07-17 02:37:31] [INFO] Memory usage report generated.
+[2025-07-17 02:34:01] [DEBUG] Delta scan complete.
+[2025-07-17 02:34:06] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:38:54] [INFO] Retrying failed request...
+[2025-07-17 02:33:50] [INFO] Finalizing backup manifest.
+[2025-07-17 02:33:10] [INFO] Sync job completed successfully.
+[2025-07-17 02:34:57] [DEBUG] Exit code: 0
+[2025-07-17 02:34:05] [INFO] Object key hashed.
+[2025-07-17 02:37:14] [INFO] Finalizing backup manifest.
+[2025-07-17 02:38:57] [WARN] Retrying failed request...
+[2025-07-17 02:35:10] [DEBUG] Uploading chunk...
+[2025-07-17 02:38:55] [WARN] Connection established to remote endpoint.
+[2025-07-17 02:32:23] [WARN] Object key hashed.
+[2025-07-17 02:35:21] [INFO] Object key hashed.
+[2025-07-17 02:37:24] [ERROR] Exit code: 0
+[2025-07-17 02:35:23] [DEBUG] Delta scan complete.
+[2025-07-17 02:37:44] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:32:41] [ERROR] Sync job completed successfully.
+[2025-07-17 02:39:54] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:36:34] [WARN] Verifying upload integrity...
+[2025-07-17 02:35:45] [DEBUG] Checksum mismatch detected.
+[2025-07-17 02:33:27] [DEBUG] Exit code: 0
+[2025-07-17 02:39:50] [INFO] Delta scan complete.
+[2025-07-17 02:34:43] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:34:42] [DEBUG] Object key hashed.
+[2025-07-17 02:37:27] [INFO] Listing files in source directory...
+[2025-07-17 02:35:46] [INFO] Received new credentials.
+[2025-07-17 02:33:00] [WARN] Sync job completed successfully.
+[2025-07-17 02:37:30] [DEBUG] Delta scan complete.
+[2025-07-17 02:32:31] [DEBUG] Exit code: 0
+[2025-07-17 02:37:17] [WARN] Retrying failed request...
+[2025-07-17 02:34:19] [INFO] Object key hashed.
+[2025-07-17 02:35:46] [DEBUG] Skipping unchanged file.
+[2025-07-17 02:32:21] [DEBUG] Finalizing backup manifest.
+[2025-07-17 02:38:07] [INFO] Sync job completed successfully.
+[2025-07-17 02:36:49] [INFO] Skipping unchanged file.
+[2025-07-17 02:36:04] [INFO] Uploading chunk...
+[2025-07-17 02:36:24] [TRACE] Checksum mismatch detected.
+[2025-07-17 02:35:43] [INFO] Exit code: 0
+[2025-07-17 02:34:15] [DEBUG] Session token refreshed.
+[2025-07-17 02:33:49] [DEBUG] Uploading chunk...
+[2025-07-17 02:39:41] [INFO] Delta scan complete.
+[2025-07-17 02:35:09] [WARN] Checksum mismatch detected.
+[2025-07-17 02:39:23] [INFO] Object key hashed.
+[2025-07-17 02:39:34] [DEBUG] Exit code: 0
+[2025-07-17 02:39:51] [INFO] Exit code: 0
+[2025-07-17 02:35:16] [DEBUG] Session token refreshed.
+[2025-07-17 02:36:16] [INFO] Retrying failed request...
+[2025-07-17 02:40:59] [INFO] Session token refreshed.
+[2025-07-17 02:34:20] [WARN] Listing files in source directory...
+[2025-07-17 02:35:06] [INFO] Session token refreshed.
+[2025-07-17 02:35:44] [DEBUG] Uploading chunk...
+[2025-07-17 02:36:45] [INFO] Received new credentials.
+[2025-07-17 02:40:11] [WARN] Memory usage report generated.
+[2025-07-17 02:33:11] [ERROR] Sync job completed successfully.
+[2025-07-17 02:38:54] [INFO] Uploading chunk...
+[2025-07-17 02:32:59] [WARN] Checksum mismatch detected.
+[2025-07-17 02:35:26] [DEBUG] Connection established to remote endpoint.
+[2025-07-17 02:40:12] [WARN] Session token refreshed.
+[2025-07-17 02:41:11] [DEBUG] Exit code: 0
+[2025-07-17 02:40:28] [INFO] Connection established to remote endpoint.
+[2025-07-17 02:34:32] [DEBUG] Object key hashed.
+[2025-07-17 02:41:43] [TRACE] Delta scan complete.
+[2025-07-17 02:41:35] [WARN] Skipping unchanged file.
+[2025-07-17 02:36:34] [DEBUG] Sync job completed successfully.
+[2025-07-17 02:32:48] [WARN] Object key hashed.
+[2025-07-17 02:35:48] [INFO] Finalizing backup manifest.
+[2025-07-17 02:37:28] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:34:01] [INFO] Session token refreshed.
+[2025-07-17 02:38:22] [INFO] Uploading chunk...
+[2025-07-17 02:34:39] [DEBUG] Memory usage report generated.
+[2025-07-17 02:34:54] [INFO] Memory usage report generated.
+[2025-07-17 02:41:12] [DEBUG] Verifying upload integrity...
+[2025-07-17 02:33:09] [ERROR] Object key hashed.
+[2025-07-17 02:38:42] [INFO] Checksum mismatch detected.
+[2025-07-17 02:36:57] [INFO] Session token refreshed.
+[2025-07-17 02:40:53] [INFO] Session token refreshed.
+[2025-07-17 02:38:08] [DEBUG] Object key hashed.
+[2025-07-17 02:32:42] [WARN] Session token refreshed.
+[2025-07-17 02:35:13] [DEBUG] Listing files in source directory...

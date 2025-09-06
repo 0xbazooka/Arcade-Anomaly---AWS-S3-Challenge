@@ -1,0 +1,73 @@
+[User:svc-backup]
+UID=932-11-8271
+LastLogin=2025-07-16T19:33:21Z
+SessionToken=DEADBEEF00012233FFEEDDCC
+LoginAttempts=3
+AuthMethod=FederatedSSO
+Role=backup-operator
+Notes=Automated system user for remote backup orchestration tasks.
+
+[SyncConfig]
+DeltaScan=true
+RegionHint=eu-central-1
+TargetBucket=backup-store-prod
+RetryLimit=3
+PurgeOld=true
+IgnoreHidden=false
+Compression=Enabled
+CompressionLevel=5
+VerifyHashes=true
+SchedulePolicy=standard-window
+EncryptionMode=AES256
+
+[AppTelemetry]
+EventsSent=4383
+CrashesReported=0
+MemoryPeakMB=78
+TelemetryOptIn=true
+CPUUsageAvg=13.27%
+ActiveThreads=4
+HealthCheckStatus=OK
+BackgroundWorkerStatus=Idle
+
+[ModuleCache:136]
+Param1=23918  ; Temporary override
+Param2=58993  ; Legacy config
+Param3=11438  ; Auto-generated
+Param4=29910  ; Checksum entry
+
+[SessionContext:CloudStore]
+SessionInit=2025-07-17T02:41:29Z
+TokenScope=LimitedWrite
+ActiveRegion=eu-central-1
+AccessKeyRef=AKIA3SFMDAPOQRFWFGCD
+EncryptedSecret=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
+Note=Key pair issued for mid-cycle validation task. Cleanup scheduled post-sync.
+PermissionSet=upload:put, fetch:get
+
+[ModuleCache:137]
+Param1=34521  ; Stale value
+Param2=88471  ; Monitoring output
+Param3=11294  ; Transient param
+Param4=71329  ; Legacy config
+
+[ModuleCache:138]
+Param1=99818  ; Auto-generated
+Param2=33291  ; Legacy config
+Param3=11923  ; Monitoring output
+Param4=44287  ; Transient param
+Param5=62341  ; Temporary override
+
+[ModuleCache:278]
+Param1=11029  ; Auto-generated
+Param2=28192  ; Monitoring output
+Param3=98211  ; Stale value
+
+[HealthCheck:Final]
+ScanDuration=41.2s
+ErrorCount=0
+Warnings=2
+FinalStatus=Passed
+MemoryUsage=62MB
+DiskIOLatency=18ms
+BackupWindowClose=2025-07-17T03:00:00Z
