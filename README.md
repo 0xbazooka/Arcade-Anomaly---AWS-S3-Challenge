@@ -13,7 +13,7 @@ I originally created this challenge for the ASC Wargames Qualifications CTF but 
 1. Create an AWS account and generate access keys  
 2. Install Terraform  
 3. Install AWS CLI  
-
+4. Create 2 IAM users: `badUser` and `badAdmin`
 Verify installation:
 
 ```bash
@@ -60,7 +60,6 @@ terraform destroy
 ```
 
 
-
 # The Scenario
 
 1. The given URL loads a static web application.  
@@ -72,7 +71,7 @@ terraform destroy
    - /`badBackup`  
    - /`admin`  
    - `index.html`  
-5. The player can list `static`, `shared`, and `badBackup` — but can only download from `static` and `shared`.  
+5. The player can list `static`, `shared`, and `badBackup` , but can only download from `static` and `shared`.  
 6. In `shared`, there’s a zip file waiting. It’s password-protected.  
 7. after cracking it with rockyou.txt the password will be 1970basma 
 8. Inside, a powershell script will be found: `PixelSync.ps1`, which will contain iam user creds for **badUser**.  
